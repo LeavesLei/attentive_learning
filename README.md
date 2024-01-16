@@ -29,11 +29,11 @@ This repository contains the code for the paper "[Attentive Learning Facilitates
 
 ## Citation
 ```
-@article{chen2023spectral,
-  title={Spectral Complexity-scaled Generalization Bound of Complex-valued Neural Networks},
-  author={Chen, Haowen and He, Fengxiang and Lei, Shiye and Tao, Dacheng},
-  journal={Artificial Intelligence},
-  year={2023}
+@article{lei2024attentive,
+  title={Attentive Learning Facilitates Generalization of Neural Networks},
+  author={Lei, Shiye and He, Fengxiang and Chen, Haowen and Tao, Dacheng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  year={2024}
 }
 ```
 
