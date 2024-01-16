@@ -1,6 +1,6 @@
 # attentive_learning
 
-This repository contains the code for the paper "[Attentive Learning Facilitates Generalization of Neural Networks](https://arxiv.org/abs/2112.03467)" by Shiye Lei, Fengxiang He, Haowen Chen, and Dacheng Tao.
+This repository contains the code for the paper "Attentive Learning Facilitates Generalization of Neural Networks" by Shiye Lei, Fengxiang He, Haowen Chen, and Dacheng Tao.
 
 ## Dependencies
 
