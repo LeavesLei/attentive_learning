@@ -15,11 +15,11 @@ This repository contains the code for the paper "Attentive Learning Facilitates 
 ##### 1. Model training
 
    
-[DATASET] ∈ {'cifar10', 'cifar100'},
+`[DATASET] ∈ {'cifar10', 'cifar100'}`
 
-[NET] ∈ {'resnet', 'vgg', 'wrn', 'vit'}, 
+`[NET] ∈ {'resnet', 'vgg', 'wrn', 'vit'}`
 
-[OPTIMIZER] ∈ {'adam',  'rmsprop',  'sgd',  'sgdm'}
+`[OPTIMIZER] ∈ {'adam',  'rmsprop',  'sgd',  'sgdm'}`
 
 
 For `INDEX=[1-10]`, `RATIO=[0.1,0.2,...,1.0]`, run
@@ -45,9 +45,9 @@ python test_locally_and_sample_size.py --dataset [DATASET] --net_type [NET]
 
 ##### 1. Model training
 
-[DATASET] ∈ {'cifar10', 'cifar100'},
+`[DATASET] ∈ {'cifar10', 'cifar100'}`
 
-[NET] ∈ {'resnet', 'vgg', 'wrn'}, 
+`[NET] ∈ {'resnet', 'vgg', 'wrn'}`
 
 
 
@@ -67,11 +67,11 @@ python test_label_noise.py --dataset [DATASET]
 
 ##### 1. Model training
 
-[DATASET] ∈ {'cifar10', 'cifar100'},
+`[DATASET] ∈ {'cifar10', 'cifar100'}`
 
-[NET] ∈ {'resnet', 'vgg', 'wrn'}, 
+`[NET] ∈ {'resnet', 'vgg', 'wrn'}`
 
-[MODE] ∈ {'green', 'gray', 'red'}, 
+`[MODE] ∈ {'green', 'gray', 'red'}`
 
 
 
