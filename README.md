@@ -104,8 +104,8 @@ For any issue, please kindly contact
 Shiye Lei: [leishiye@gmail.com](mailto:leishiye@gmail.com)  
 Fengxiang He: [F.He@ed.ac.uk](mailto:F.He@ed.ac.uk)  
 Hoawen Chen: [haowchen@student.ethz.ch](mailto:haowchen@student.ethz.ch)  
-Dacheng Tao: [dacheng.tao@ntu.edu.sgu](mailto:dacheng.tao@ntu.edu.sg)
+Dacheng Tao: [dacheng.tao@ntu.edu.sg](mailto:dacheng.tao@ntu.edu.sg)
 
 ---
 
-Last update: Tue 16 Jan 2024
+Last update: Thu 18 Jan 2024
